@@ -1,0 +1,44 @@
+[
+    {
+        "id": "heart",
+        "title": "愛心",
+        "imagePath": "assets/puzzles/easy/heart.png",
+        "difficulty": "easy"
+    },
+    {
+        "id": "star",
+        "title": "星星",
+        "imagePath": "assets/puzzles/easy/star.png",
+        "difficulty": "easy"
+    },
+    {
+        "id": "fish",
+        "title": "魚",
+        "imagePath": "assets/puzzles/medium/fish.png",
+        "difficulty": "medium"
+    },
+    {
+        "id": "flower",
+        "title": "花",
+        "imagePath": "assets/puzzles/medium/flower.png",
+        "difficulty": "medium"
+    },
+    {
+        "id": "rabbit",
+        "title": "兔子",
+        "imagePath": "assets/puzzles/hard/rabbit.png",
+        "difficulty": "hard"
+    },
+    {
+        "id": "sail_boat",
+        "title": "帆船",
+        "imagePath": "assets/puzzles/hard/sail_boat.png",
+        "difficulty": "hard"
+    },
+    {
+        "id": "smile",
+        "title": "微笑",
+        "imagePath": "assets/puzzles/easy/smile.png",
+        "difficulty": "easy"
+    }
+]
